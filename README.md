@@ -1,6 +1,8 @@
 # MyRag - Ollama增强代理服务
 
 MyRag是一个智能代理服务，它扩展了Ollama API的功能，通过添加RAG(检索增强生成)、网络搜索和图像处理等能力，大幅提升模型响应质量。该项目将多种增强功能无缝集成到Ollama的API中，使本地大语言模型更加强大和实用。
+![image](https://github.com/user-attachments/assets/b239f410-d349-4eea-88d5-a59e7763d329)
+
 ![image](https://github.com/user-attachments/assets/27834fd3-5d5d-4ee7-a117-2065232d13b5)
 
 ## 功能特点
