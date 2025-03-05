@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block title %}知识库配置{% endblock %}
+
+{% block breadcrumb %}
+{{ super() }}
+<li class="breadcrumb-item text-light">知识库配置</li>
+{% endblock %}
+
+{% block content %}
+<div class="card mb-4">
+    <div class="card-header">
+        <h4 class="mb-0">基础配置</h4>
+    </div>
+    <div class="card-body">
+        <form class="config-form">
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label">知识库ID</label>
+                <div class="col-sm-10">
+                    <span id="kbId" class="form-control-plaintext"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label">Embedding模型</label>
+                <div class="col-sm-10">
+                    <select id="embeddingModel" class="form-select">
+                        <option value="text2vec">Text2Vec</option>
+                        <option value="openai">OpenAI</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label">文本理解模型</label>
+                <div class="col-sm-10">
+                    <select id="textModel" class="form-select">
+                        <option value="chatglm2">ChatGLM2</option>
+                        <option value="gpt3">GPT-3</option>
+                    </select>
+                </div>
+            </div>
+            <div class="text-end">
+                <button type="button" class="btn btn-primary" onclick="saveConfig()">保存配置</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h4 class="mb-0">数据集列表</h4>
+        <button class="btn btn-primary" onclick="window.location.href='/knowledge-base/' + document.getElementById('kbId').textContent + '/upload'">
+            <i class="bi bi-plus-lg"></i> 新建/导入数据集
+        </button>
+    </div>
+    <div class="card-body">
+        <div id="datasetList" class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>名称</th>
+                        <th>状态</th>
+                        <th>数据总量</th>
+                        <th>创建时间</th>
+                        <th>是否启用</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- 数据集列表将动态加载 -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/knowledge_base.js"></script>
+{% endblock %}

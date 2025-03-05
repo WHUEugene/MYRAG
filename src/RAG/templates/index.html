@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block title %}我的知识库{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col">
+        <h2>我的知识库</h2>
+    </div>
+    <div class="col text-end">
+        <button id="createKbBtn" class="btn btn-primary">
+            <i class="bi bi-plus-lg"></i> 新建知识库
+        </button>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <div id="kbList" class="list-group">
+            <!-- 知识库列表将动态加载 -->
+        </div>
+    </div>
+</div>
+
+<!-- 创建知识库对话框 -->
+<div class="modal fade" id="createKbModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">新建知识库</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label class="form-label">知识库名称</label>
+                    <input type="text" class="form-control" id="kbName">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+                <button type="button" class="btn btn-primary" onclick="createKb()">创建</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/index.js"></script>
+{% endblock %}

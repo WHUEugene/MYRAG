@@ -1,0 +1,591 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Deepseek",
+        "totalResults": "264000000",
+        "searchTerms": "Deepseek",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "a2119f9441a834340"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Deepseek",
+        "totalResults": "264000000",
+        "searchTerms": "Deepseek",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "a2119f9441a834340"
+      }
+    ]
+  },
+  "context": {
+    "title": "searchtest"
+  },
+  "searchInformation": {
+    "searchTime": 0.449274,
+    "formattedSearchTime": "0.45",
+    "totalResults": "264000000",
+    "formattedTotalResults": "264,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek",
+      "htmlTitle": "<b>DeepSeek</b>",
+      "link": "https://www.deepseek.com/",
+      "displayLink": "www.deepseek.com",
+      "snippet": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "htmlSnippet": "<b>DeepSeek</b>, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "formattedUrl": "https://www.deepseek.com/",
+      "htmlFormattedUrl": "https://www.<b>deepseek</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZCwaeaQEYke87LEB8vcilZCPEMBjhYxKagzeGAxaMfyLK4vbBkPxbwk&s",
+            "width": "307",
+            "height": "164"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://chat.deepseek.com/deepseek-chat.jpeg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "DeepSeek",
+            "og:title": "DeepSeek",
+            "google": "notranslate",
+            "og:description": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+            "twitter:image": "https://chat.deepseek.com/deepseek-chat.jpeg",
+            "baidu-site-verification": "codeva-Wl5laKfjIo",
+            "twitter:site": "@site",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+            "og:url": "https://www.deepseek.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://chat.deepseek.com/deepseek-chat.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek - AI Assistant - Apps on Google Play",
+      "htmlTitle": "<b>DeepSeek</b> - AI Assistant - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.deepseek.chat&hl=en_US",
+      "displayLink": "play.google.com",
+      "snippet": "3 days ago ... About this app. arrow_forward. Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking ...",
+      "htmlSnippet": "3 days ago <b>...</b> About this app. arrow_forward. Experience seamless interaction with <b>DeepSeek&#39;s</b> official AI assistant for free! Powered by the groundbreaking&nbsp;...",
+      "formattedUrl": "https://play.google.com/store/apps/details?id=com.deepseek.chat&hl...",
+      "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>deepseek</b>.chat&amp;hl...",
+      "pagemap": {
+        "offer": [
+          {
+            "price": "0",
+            "url": "https://play.google.com/store/apps/details?id=com.deepseek.chat&rdid=com.deepseek.chat&feature=md&offerId"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC17Pk-qQt3OxDzuaEHS1SihrQweIo-dmiJjWMDsOGemZBYmiS5_dr_bg&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "DeepSeek - AI Assistant - Apps on Google Play",
+            "twitter:url": "https://play.google.com/store/apps/details?id=com.deepseek.chat&hl=en_US",
+            "appstore:developer_url": "https://www.deepseek.com",
+            "og:title": "DeepSeek - AI Assistant - Apps on Google Play",
+            "twitter:image": "https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w600-h300-pc0xffffff-pd",
+            "appstore:bundle_id": "com.deepseek.chat",
+            "referrer": "origin",
+            "twitter:site": "@GooglePlay",
+            "appstore:store_id": "com.deepseek.chat",
+            "viewport": "width=device-width, initial-scale=1",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Intelligent AI Assistant",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://play.google.com/store/apps/details?id=com.deepseek.chat&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek",
+      "htmlTitle": "<b>DeepSeek</b>",
+      "link": "https://chat.deepseek.com/",
+      "displayLink": "chat.deepseek.com",
+      "snippet": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context ...",
+      "htmlSnippet": "Chat with <b>DeepSeek</b> AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context&nbsp;...",
+      "formattedUrl": "https://chat.deepseek.com/",
+      "htmlFormattedUrl": "https://chat.<b>deepseek</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZCwaeaQEYke87LEB8vcilZCPEMBjhYxKagzeGAxaMfyLK4vbBkPxbwk&s",
+            "width": "307",
+            "height": "164"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://chat.deepseek.com/deepseek-chat.jpeg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "DeepSeek",
+            "twitter:domain": "deepseek.com",
+            "twitter:url": "https://chat.deepseek.com",
+            "og:title": "DeepSeek",
+            "ip": "66.249.65.227",
+            "google": "notranslate",
+            "commit-id": "75e9d06f",
+            "og:description": "Chat with DeepSeek AI.",
+            "twitter:image": "https://chat.deepseek.com/deepseek-chat.jpeg",
+            "viewport": "initial-scale=1.0,maximum-scale=1,width=device-width,viewport-fit=cover",
+            "twitter:description": "Chat with DeepSeek AI.",
+            "og:url": "https://chat.deepseek.com",
+            "region": "US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://chat.deepseek.com/deepseek-chat.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek - Wikipedia",
+      "htmlTitle": "<b>DeepSeek</b> - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/DeepSeek",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer. DeepSeek was founded in July 2023 by High-Flyer co-founder Liang ...",
+      "htmlSnippet": "Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer. <b>DeepSeek</b> was founded in July 2023 by High-Flyer co-founder Liang&nbsp;...",
+      "formattedUrl": "https://en.wikipedia.org/wiki/DeepSeek",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>DeepSeek</b>",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "www.deepseek.com",
+            "bday": "2023-07-17",
+            "fn": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.",
+            "label": "Hangzhou, Zhejiang, China",
+            "category": "Privately held company",
+            "url": "www.deepseek.com"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "theme-color": "#eaecf0",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "DeepSeek - Wikipedia",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What is DeepSeek - and why is everyone talking about it?",
+      "htmlTitle": "What is <b>DeepSeek</b> - and why is everyone talking about it?",
+      "link": "https://www.bbc.com/news/articles/c5yv5976z9po",
+      "displayLink": "www.bbc.com",
+      "snippet": "Feb 4, 2025 ... DeepSeek: The Chinese AI app that has the world talking ... DeepSeek has stunned the world - what do we know about it? DeepSeek, a Chinese ...",
+      "htmlSnippet": "Feb 4, 2025 <b>...</b> <b>DeepSeek</b>: The Chinese AI app that has the world talking ... <b>DeepSeek</b> has stunned the world - what do we know about it? <b>DeepSeek</b>, a Chinese&nbsp;...",
+      "formattedUrl": "https://www.bbc.com/news/articles/c5yv5976z9po",
+      "htmlFormattedUrl": "https://www.bbc.com/news/articles/c5yv5976z9po",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ElSAdDaod9aScqpVJSTRAgVDeeSFkipUOUcm3-UJvrUS8OdYjQAn_bk&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#da532c",
+            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/3cb2/live/61ec64f0-dd4c-11ef-b20c-cf1b3bd7a488.jpg",
+            "apple-itunes-app": "app-id=364147881, app-argument=https://www.bbc.com/news/articles/c5yv5976z9po",
+            "twitter:title": "What is DeepSeek - and why is everyone talking about it?",
+            "twitter:card": "summary_large_image",
+            "og:image:alt": "A photo of the DeepSeek app, with the Chinese flag in the background",
+            "theme-color": "#ffffff",
+            "al:ios:app_name": "BBC: World News & Stories",
+            "og:title": "What is DeepSeek - and why is everyone talking about it?",
+            "al:android:package": "bbc.mobile.news.ww",
+            "al:ios:url": "bbcx://news/articles/c5yv5976z9po",
+            "al:web:url": "https://bbc.com/news/articles/c5yv5976z9po",
+            "og:description": "A Chinese startup has built a low-cost AI model using less technologically advanced chips.",
+            "version": "2.15.5+2",
+            "al:ios:app_store_id": "364147881",
+            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/3cb2/live/61ec64f0-dd4c-11ef-b20c-cf1b3bd7a488.jpg",
+            "al:android:url": "bbcx://news/articles/c5yv5976z9po",
+            "next-head-count": "36",
+            "twitter:image:alt": "A photo of the DeepSeek app, with the Chinese flag in the background",
+            "viewport": "width=device-width",
+            "twitter:description": "A Chinese startup has built a low-cost AI model using less technologically advanced chips.",
+            "al:android:app_name": "BBC: World News & Stories"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/3cb2/live/61ec64f0-dd4c-11ef-b20c-cf1b3bd7a488.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What is DeepSeek and why is it disrupting the AI sector? | Reuters",
+      "htmlTitle": "What is <b>DeepSeek</b> and why is it disrupting the AI sector? | Reuters",
+      "link": "https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/",
+      "displayLink": "www.reuters.com",
+      "snippet": "Jan 28, 2025 ... Chinese startup DeepSeek is threatening to upset the technology world order.",
+      "htmlSnippet": "Jan 28, 2025 <b>...</b> Chinese startup <b>DeepSeek</b> is threatening to upset the technology world order.",
+      "formattedUrl": "https://www.reuters.com/.../what-is-deepseek-why-is-it-disrupting-ai-sector-...",
+      "htmlFormattedUrl": "https://www.reuters.com/.../what-is-<b>deepseek</b>-why-is-it-disrupting-ai-sector-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd65WOeIDFA0I2mj1Yg6keQ_z3-OtsGTVy4El_fzO50RadrYDeQXRX3A&s=0",
+            "width": "148",
+            "height": "99"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/?id=7PGVDS4OAZLLBJCAYBGR6RSM6I",
+            "og:image": "https://www.reuters.com/resizer/v2/5WN3T2OXP5ORTFUBFAJEDOBDVE.jpg?auth=a65b0f1efd548e7efa61681d72b55ba4c32a255408d004772fb9a65aa9a26023&height=1005&width=1920&quality=80&smart=true",
+            "analytics:page_layout": "regular-article",
+            "article:published_time": "2025-01-28T17:13:02Z",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Reuters",
+            "og:article:modified_time": "2025-01-28T17:13:32.922Z",
+            "ccbot": "nofollow",
+            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+            "analyticsattributes.topicchannel": "Technology",
+            "title": "What is DeepSeek and why is it disrupting the AI sector? | Reuters",
+            "og:description": "Chinese startup DeepSeek is threatening to upset the technology world order.",
+            "twitter:creator": "@Reuters",
+            "twitter:image": "https://www.reuters.com/resizer/v2/5WN3T2OXP5ORTFUBFAJEDOBDVE.jpg?auth=a65b0f1efd548e7efa61681d72b55ba4c32a255408d004772fb9a65aa9a26023&height=1005&width=1920&quality=80&smart=true",
+            "twitter:image:alt": "Deepseek logo and the Chinese flag are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration",
+            "twitter:site": "@Reuters",
+            "article:modified_time": "2025-01-28T17:13:32.922Z",
+            "fb:admins": "988502044532272",
+            "article:content_tier": "metered",
+            "og:type": "article",
+            "article:section": "Artificial Intelligence",
+            "og:image:alt": "Deepseek logo and the Chinese flag are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration",
+            "twitter:title": "What is DeepSeek and why is it disrupting the AI sector?",
+            "ad:template": "article",
+            "og:image:url": "https://www.reuters.com/resizer/v2/5WN3T2OXP5ORTFUBFAJEDOBDVE.jpg?auth=a65b0f1efd548e7efa61681d72b55ba4c32a255408d004772fb9a65aa9a26023&height=1005&width=1920&quality=80&smart=true",
+            "dcsext.dartzone": "/4735792/reuters.com/technology/disrupted/article",
+            "og:title": "What is DeepSeek and why is it disrupting the AI sector?",
+            "dcsext.channellist": "Technology;China;Business;Litigation;Transactional;Technology;Artificial Intelligence",
+            "og:image:height": "628",
+            "og:article:published_time": "2025-01-28T17:13:02Z",
+            "og:updated_time": "2025-01-28T17:13:32.922Z",
+            "fb:pages": "114050161948682",
+            "article:author": "Eduardo Baptista",
+            "article:tag": "EF:TECHNOLOGY-DISRUPTED,EXPLN,TOPNWS,ANLINS,ARTI,CHIP,CHIP1,CMPNY,GEN,ITEC,ITSE,ITSE08,MEVN,NETSV,NEWS1,PUBL,SCI,SEMI,SEMQT,SEMQT1,SRCHEN,SWIT,TECH,TECH08,TEEQ,TEEQ08,TMT,TOPCMB,WEU,EASIA,KR,AMERS,US,EUROP,ASEAN,TW,MY,BLUX,EZC,NAMER,SEASIA,EMEA,ASXPAC,EMRG,NL,CN,ASIA,DEST:CSA,DEST:LBY,DEST:REULB,DEST:ABX,DEST:G,DEST:RAST,DEST:PGE,DEST:Z,DEST:RNP,DEST:E,DEST:PCU,DEST:ABN,DEST:AFA,DEST:BNX,DEST:PSC,DEST:U,DEST:DNP,DEST:FUN,DEST:UCDPTEST,DEST:RWSA,DEST:GNS,DEST:RWS,DEST:PCO,DEST:D,DEST:RBN,DEST:OUSTCM,DEST:OUSBSM,DEST:OCABSM,DEST:SEABS,DEST:EF-TECHNOLOGY-DISRUPTED,RULES:COMPANY-DEEPSEEK,LEGAL,REUTERS-LEGAL,DEST:LITA,DEST:OIP,DEST:ODAT",
+            "analyticsattributes.topicsubchannel": "Artificial Intelligence",
+            "fb:app_id": "988502044532272",
+            "og:locale:alternate": "en_US",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Chinese startup DeepSeek is threatening to upset the technology world order.",
+            "og:locale": "en_US",
+            "og:url": "https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.reuters.com/resizer/v2/URF5DALVVVK4VFWK6RI6WP5K7Q.jpg?auth=61401fdd59baa2817436a1d25271311d8071ca89a09d6505da7c08c410e4a960&width=960&quality=80"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Wiz Research Uncovers Exposed DeepSeek Database Leaking ...",
+      "htmlTitle": "Wiz Research Uncovers Exposed <b>DeepSeek</b> Database Leaking ...",
+      "link": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
+      "displayLink": "www.wiz.io",
+      "snippet": "Jan 29, 2025 ... A publicly accessible database belonging to DeepSeek allowed full control over database operations, including the ability to access internal ...",
+      "htmlSnippet": "Jan 29, 2025 <b>...</b> A publicly accessible database belonging to <b>DeepSeek</b> allowed full control over database operations, including the ability to access internal&nbsp;...",
+      "formattedUrl": "https://www.wiz.io/.../wiz-research-uncovers-exposed-deepseek-database-le...",
+      "htmlFormattedUrl": "https://www.wiz.io/.../wiz-research-uncovers-exposed-<b>deepseek</b>-database-le...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Vnfgz4r3AzFD72kSGkPUK83vwAjHNuiFDbe3vwN02J6Q4yrgZY2XPVA&s",
+            "width": "315",
+            "height": "160"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.datocms-assets.com/75231/1738180897-ds-2x.png?fm=webp",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "article:published_time": "2025-01-29T15:47:40-05:00",
+            "og:site_name": "wiz.io",
+            "twitter:widgets:csp": "on",
+            "og:title": "Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information, Including Chat History | Wiz Blog",
+            "og:description": "A publicly accessible database belonging to DeepSeek allowed full control over database operations, including the ability to access internal data. The exposure includes over a million lines of log streams with highly sensitive information.",
+            "article:author": "https://www.wiz.io/authors/gal-nagli",
+            "article:tag": "Research",
+            "referrer": "no-referrer-when-downgrade",
+            "twitter:site": "@wiz_io",
+            "article:modified_time": "2025-01-29T15:47:40-05:00",
+            "viewport": "width=device-width",
+            "og:locale": "en-us",
+            "og:url": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.datocms-assets.com/75231/1738180897-ds-2x.png?fm=webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek - AI Assistant on the App Store",
+      "htmlTitle": "<b>DeepSeek</b> - AI Assistant on the App Store",
+      "link": "https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349",
+      "displayLink": "apps.apple.com",
+      "snippet": "4 days ago ... Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over ...",
+      "htmlSnippet": "4 days ago <b>...</b> Experience seamless interaction with <b>DeepSeek&#39;s</b> official AI assistant for free! Powered by the groundbreaking <b>DeepSeek</b>-V3 model with over&nbsp;...",
+      "formattedUrl": "https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349",
+      "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>deepseek</b>-ai-assistant/id6737597349",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyy7XlIU4sWezUiuJ-oKNF8bQc0mclg2RtIJjMPvVGrcp8iRnFK1JEHIyt&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f2/07/63f207be-10db-7a21-9fc0-9158fb243176/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/1200x630wa.png",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "App Store",
+            "applicable-device": "pc,mobile",
+            "og:image:type": "image/png",
+            "og:description": "‎Experience seamless interaction with DeepSeek's official AI assistant for free!\nPowered by the groundbreaking DeepSeek-V3 model with over 600B parameters, this state-of-the-art AI leads global standards and matches top-tier international models across multiple benchmarks. Enjoy faster speeds and com…",
+            "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f2/07/63f207be-10db-7a21-9fc0-9158fb243176/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/1200x630wa.png",
+            "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f2/07/63f207be-10db-7a21-9fc0-9158fb243176/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/1200x600wa.png",
+            "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+            "twitter:image:alt": "DeepSeek - AI Assistant on the App Store",
+            "twitter:site": "@AppStore",
+            "og:image:alt": "DeepSeek - AI Assistant on the App Store",
+            "og:type": "website",
+            "twitter:title": "‎DeepSeek - AI Assistant",
+            "og:title": "‎DeepSeek - AI Assistant",
+            "og:image:height": "630",
+            "version": "2508.0.0",
+            "globalnav-search-suggestions-enabled": "false",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "ac-gn-search-suggestions-enabled": "false",
+            "twitter:description": "‎Experience seamless interaction with DeepSeek's official AI assistant for free!\nPowered by the groundbreaking DeepSeek-V3 model with over 600B parameters, this state-of-the-art AI leads global standards and matches top-tier international models across multiple benchmarks. Enjoy faster speeds and com…",
+            "og:locale": "en_US",
+            "apple:content_id": "6737597349",
+            "og:url": "https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f2/07/63f207be-10db-7a21-9fc0-9158fb243176/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/1200x630wa.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "deepseek-ai/DeepSeek-V3 - GitHub",
+      "htmlTitle": "deepseek-ai/DeepSeek-V3 - GitHub",
+      "link": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "displayLink": "github.com",
+      "snippet": "Benchmarks containing fewer than 1000 samples are tested multiple times using varying temperature settings to derive robust final results. DeepSeek-V3 stands as ...",
+      "htmlSnippet": "Benchmarks containing fewer than 1000 samples are tested multiple times using varying temperature settings to derive robust final results. <b>DeepSeek</b>-V3 stands as&nbsp;...",
+      "formattedUrl": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "htmlFormattedUrl": "https://github.com/<b>deepseek</b>-ai/<b>DeepSeek</b>-V3",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlcYbmUO7DSn6upXHnmRK7n_5X2b_efGBp58Sa6CUtBvk7SqYequOFXcm&s",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "author": "deepseek-ai",
+            "name": "DeepSeek-V3",
+            "text": "Paper Link👁️ Table of Contents Introduction Model Summary Model Downloads Evaluation Results Chat Website & API Platform How to Run Locally License Citation Contact 1. Introduction We..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/deepseek-ai/DeepSeek-V3",
+            "og:image": "https://opengraph.githubassets.com/33c4ff7fdc3411a2d8923fb9c1f73ad6eace1b0d464c9310d444ceaead3a0c90/deepseek-ai/DeepSeek-V3",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:908531752",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "69b653614c64d8dfcb692ed431c7c4d9b39dcab3a458fef711b5ca9d35b50fcd",
+            "expected-hostname": "github.com",
+            "og:description": "Contribute to deepseek-ai/DeepSeek-V3 development by creating an account on GitHub.",
+            "twitter:image": "https://opengraph.githubassets.com/33c4ff7fdc3411a2d8923fb9c1f73ad6eace1b0d464c9310d444ceaead3a0c90/deepseek-ai/DeepSeek-V3",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "deepseek-ai",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGQzY1OjI1NjExOToxREU0RUE2OjJBMzk1QjY6NjdCODVFQzYiLCJ2aXNpdG9yX2lkIjoiNjQyMzY4MzE5OTg1ODM1NzE5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=",
+            "github-keyboard-shortcuts": "repository,copilot",
+            "octolytics-dimension-repository_id": "908531752",
+            "octolytics-dimension-repository_network_root_nwo": "deepseek-ai/DeepSeek-V3",
+            "twitter:title": "GitHub - deepseek-ai/DeepSeek-V3",
+            "og:image:alt": "Contribute to deepseek-ai/DeepSeek-V3 development by creating an account on GitHub.",
+            "og:type": "object",
+            "og:title": "GitHub - deepseek-ai/DeepSeek-V3",
+            "visitor-hmac": "2c54c643db29740ca1563f94455c6e2b968f68abcc7556d68aece8ad87e4badc",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "route-action": "disambiguate",
+            "request-id": "FC65:256119:1DE4EA6:2A395B6:67B85EC6",
+            "analytics-location": "/<user-name>/<repo-name>",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/deepseek-ai/DeepSeek-V3 git https://github.com/deepseek-ai/DeepSeek-V3.git",
+            "octolytics-dimension-user_id": "148330874",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "908531752",
+            "octolytics-dimension-repository_nwo": "deepseek-ai/DeepSeek-V3",
+            "viewport": "width=device-width",
+            "twitter:description": "Contribute to deepseek-ai/DeepSeek-V3 development by creating an account on GitHub.",
+            "route-controller": "files",
+            "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+            "og:url": "https://github.com/deepseek-ai/DeepSeek-V3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/33c4ff7fdc3411a2d8923fb9c1f73ad6eace1b0d464c9310d444ceaead3a0c90/deepseek-ai/DeepSeek-V3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DeepSeek sparks AI stock selloff; Nvidia posts record market-cap ...",
+      "htmlTitle": "<b>DeepSeek</b> sparks AI stock selloff; Nvidia posts record market-cap ...",
+      "link": "https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/",
+      "displayLink": "www.reuters.com",
+      "snippet": "Jan 28, 2025 ... \"If it's true that DeepSeek is the proverbial 'better mousetrap,' that could disrupt the entire AI narrative that has helped drive the markets ...",
+      "htmlSnippet": "Jan 28, 2025 <b>...</b> &quot;If it&#39;s true that <b>DeepSeek</b> is the proverbial &#39;better mousetrap,&#39; that could disrupt the entire AI narrative that has helped drive the markets&nbsp;...",
+      "formattedUrl": "https://www.reuters.com/.../chinas-deepseek-sets-off-ai-market-rout-2025-0...",
+      "htmlFormattedUrl": "https://www.reuters.com/.../chinas-<b>deepseek</b>-sets-off-ai-market-rout-2025-0...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8jTjRhJnCxm72OZeOAZOX-iCmM-dfesmkmQDeFxFd1Xwiek6rklojQQi&s",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/?id=GI2TNQSJNFP3HJNW2SDXAZ23QQ",
+            "og:image": "https://www.reuters.com/resizer/v2/ZN6XKB6HCBKY7LRIH4ZD6SG4EU.jpg?auth=d5ae7eaa1067ee7a1270e6815a7b5d58ee22c0ffc05fdf00d9602d4fc2a2b624&height=1005&width=1920&quality=80&smart=true",
+            "analytics:page_layout": "regular-article",
+            "article:published_time": "2025-01-28T00:31:12Z",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Reuters",
+            "og:article:modified_time": "2025-01-28T03:24:39.37Z",
+            "ccbot": "nofollow",
+            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+            "analyticsattributes.topicchannel": "Technology",
+            "title": "DeepSeek sparks AI stock selloff; Nvidia posts record market-cap loss | Reuters",
+            "og:description": "Global investors are worried the emergence of a low-cost Chinese AI model will threaten the dominance of AI leaders.",
+            "twitter:creator": "@Reuters",
+            "twitter:image": "https://www.reuters.com/resizer/v2/ZN6XKB6HCBKY7LRIH4ZD6SG4EU.jpg?auth=d5ae7eaa1067ee7a1270e6815a7b5d58ee22c0ffc05fdf00d9602d4fc2a2b624&height=1005&width=1920&quality=80&smart=true",
+            "twitter:image:alt": "Deepseek logo is seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration",
+            "twitter:site": "@Reuters",
+            "article:modified_time": "2025-01-28T03:24:39.37Z",
+            "fb:admins": "988502044532272",
+            "article:content_tier": "metered",
+            "og:type": "article",
+            "article:section": "Technology",
+            "og:image:alt": "Deepseek logo is seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration",
+            "twitter:title": "DeepSeek sparks AI stock selloff; Nvidia posts record market-cap loss",
+            "ad:template": "article",
+            "og:image:url": "https://www.reuters.com/resizer/v2/ZN6XKB6HCBKY7LRIH4ZD6SG4EU.jpg?auth=d5ae7eaa1067ee7a1270e6815a7b5d58ee22c0ffc05fdf00d9602d4fc2a2b624&height=1005&width=1920&quality=80&smart=true",
+            "dcsext.dartzone": "/4735792/reuters.com/technology/disrupted/article",
+            "og:title": "DeepSeek sparks AI stock selloff; Nvidia posts record market-cap loss",
+            "dcsext.channellist": "Technology;Asia Pacific;China;Business;Asian Markets;European Markets;U.S. Markets;Technology",
+            "og:image:height": "628",
+            "og:article:published_time": "2025-01-28T00:31:12Z",
+            "og:updated_time": "2025-01-28T03:24:39.37Z",
+            "fb:pages": "114050161948682",
+            "article:author": "Sinéad Carew,Amanda Cooper,Ankur Banerjee",
+            "article:tag": "EF:TECHNOLOGY-DISRUPTED,BISV,BISV08,BNK,BNKS,BNKS1,BSVC,CHIP,CHIP1,CMPELC,CMPNY,COMS,COMS08,ELC,ELCO,ELCO08,FIN,FINS,FINS08,INDG,INDG08,INDS,INDS08,MACH,MACH08,MEVN,PHNE,PHNE1,PUBL,SEMI,SEMQT,SEMQT1,SEMTST,TECH,TECH08,TEEQ,TEEQ08,TMT,UTIL,UTIM,UTIM08,WEU,EASIA,KR,AMERS,US,EUROP,ASEAN,TW,MY,BLUX,EZC,NAMER,SEASIA,EMEA,ASXPAC,EMRG,NL,ASIA,JP,DEST:OUSTCM,DEST:SEABS,DEST:OUSBSM,DEST:OCABSM,DEST:EF-TECHNOLOGY-DISRUPTED,RATI:ADAS-AV-SAFETY,RATI:SUSTAINABLE-EV-SUPPLY-CHAIN,AUT,AUTO,CARM,CYCS,CYCS08,ELEAV,NEWS1,TOPNWS,TOPCMB,MTPIX,ARTI,CCOS,GEN,MDIA,MDIA08,PHONES,PUB,PXP,RET,RETE,SCI,SHOP,SHOPAL,SOFENT,SOFW,SOFW1,SPCRET,SWIT,DEST:SI,DEST:ABX,DEST:G,DEST:M,DEST:PGE,DEST:Z,DEST:PTD,DEST:RNP,DEST:E,DEST:ABN,DEST:BNX,DEST:PSC,DEST:U,DEST:DNP,DEST:N,DEST:FUN,DEST:UCDPTEST,DEST:RBN,ENER,ENFF,ENG,RENE,RENQ,RENQ1,CEEU,DE,ELCO1,DEST:RAST,DEST:OUSTPM,DEST:OCATPM,DEST:OUKTPM,DEST:SEATP,PACKAGE:US-TOP-NEWS,POL,TRD,DEST:OUKBSM,RULES:COMPANY-DEEPSEEK,MTGFX,ELEU,ELUT,ELUT1,HOT,STX,DEST:CSA,DEST:LBY,DEST:REULB,DEST:AFA,DEST:RWSA,DEST",
+            "fb:app_id": "988502044532272",
+            "og:locale:alternate": "en_US",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Global investors are worried the emergence of a low-cost Chinese AI model will threaten the dominance of AI leaders.",
+            "og:locale": "en_US",
+            "og:url": "https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.reuters.com/resizer/v2/ZN6XKB6HCBKY7LRIH4ZD6SG4EU.jpg?auth=d5ae7eaa1067ee7a1270e6815a7b5d58ee22c0ffc05fdf00d9602d4fc2a2b624&height=1005&width=1920&quality=80&smart=true"
+          }
+        ]
+      }
+    }
+  ]
+}

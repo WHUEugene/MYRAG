@@ -1,0 +1,41 @@
+{
+  "nomic-embed-text:latest": {
+    "vision": false
+  },
+  "deepseek-r1:14b": {
+    "vision": false
+  },
+  "deepseek-r1:latest": {
+    "vision": false
+  },
+  "llava:latest": {
+    "vision": true
+  },
+  "qwen2.5:latest": {
+    "vision": false
+  },
+  "llama3.2:1b": {
+    "vision": false
+  },
+  "llama3.2-vision:90b": {
+    "vision": false
+  },
+  "qwen2.5:0.5b": {
+    "vision": false
+  },
+  "deepseek-r1:671b-o8k": {
+    "vision": false
+  },
+  "deepseek-r1:671b-c48k": {
+    "vision": false
+  },
+  "SIGJNF/deepseek-r1-671b-1.58bit:latest": {
+    "vision": false
+  },
+  "deepseek-r1:671b": {
+    "vision": false
+  },
+  "deepseek-r1:70b": {
+    "vision": false
+  }
+}

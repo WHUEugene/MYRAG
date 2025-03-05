@@ -1,0 +1,13 @@
+MyRag/
+├── search_engines/           # 搜索引擎实现
+│   ├── base_engine.py       # 基础搜索引擎抽象类
+│   ├── google_engine.py     # Google搜索实现
+│   ├── bing_engine.py       # Bing搜索实现
+│   └── __init__.py
+├── search/                  # 搜索服务核心
+│   ├── models.py           # 数据模型定义
+│   ├── ranking.py          # 相关度排序
+│   ├── content_processor.py # 内容处理
+│   ├── search_service.py   # 搜索服务整合
+│   └── __init__.py
+└── browser_search.py       # 浏览器搜索封装

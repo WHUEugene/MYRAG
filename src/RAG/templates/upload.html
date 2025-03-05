@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+
+{% block title %}上传数据集{% endblock %}
+
+{% block breadcrumb %}
+{{ super() }}
+<li class="breadcrumb-item text-light"><a href="javascript:history.back()" class="text-light">知识库配置</a></li>
+<li class="breadcrumb-item text-light">上传数据集</li>
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-body">
+        <!-- 将知识库ID传递到前端 -->
+        <input type="hidden" id="kbId" value="{{ kb_id }}">
+        <div id="dropZone" class="upload-zone text-center p-5 mb-4">
+            <i class="bi bi-cloud-upload display-1"></i>
+            <p class="lead mt-3">拖拽文件到此处或点击上传</p>
+            <input type="file" id="fileInput" accept=".txt,.pdf,.doc,.docx,.html,.json,.md" hidden>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h5 class="mb-0">处理参数</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label">分段大小（字符数）</label>
+                            <input type="number" id="chunkSize" class="form-control" value="500">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">重叠大小（字符数）</label>
+                            <input type="number" id="overlap" class="form-control" value="50">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">文本预览</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="previewContent" class="preview-content"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center mt-4">
+            <button id="uploadBtn" class="btn btn-primary btn-lg" disabled>
+                <i class="bi bi-arrow-up-circle"></i> 开始处理
+            </button>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/upload.js"></script>
+{% endblock %}

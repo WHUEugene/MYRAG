@@ -1,0 +1,22 @@
+{
+  "kb_list": {
+    "4582657b-211f-4c9f-863a-1c859ad6a7f8": {
+      "id": "4582657b-211f-4c9f-863a-1c859ad6a7f8",
+      "name": "test",
+      "created_at": "2025-02-13T02:57:53.119781",
+      "embedding_model": "text2vec",
+      "text_model": "gpt3",
+      "datasets": [
+        {
+          "id": "5e4d7e83-6d76-4d3e-a107-94b7f42f571d",
+          "name": "xianfa.txt",
+          "file_path": "/Users/linyong/vscode/MyRag/knowledge_base/20250225_144443_xianfa.txt",
+          "created_at": "2025-02-25T14:44:43.513174",
+          "status": "COMPLETED",
+          "enabled": true,
+          "total_count": 44
+        }
+      ]
+    }
+  }
+}
